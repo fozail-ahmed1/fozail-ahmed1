@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fozail !👋</h1>
-<h3 align="center">An Enthusiastic Python programmer and Web developer :sunglasses:</h3>
+<h3 align="center">Fullstack Web Developer | Frontend Developer | Data Science Enthausist :sunglasses:</h3>
 
 - 🔭 I’m currently working on [Jet Express - Courier Service!](https://github.com/fozail-ahmed1/Courier-Management-System)
 
