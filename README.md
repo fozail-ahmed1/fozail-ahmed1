@@ -1,9 +1,9 @@
 <h1 align="center">Fozail Ahmed</h1>
 <h3 align="center">Fullstack Web Developer | Frontend Developer | Data Science Enthusiast</h3>
 
--  I’m currently working on [Jet Express - Courier Service!](https://github.com/fozail-ahmed1/Courier-Management-System)
+-  I’m currently working on [Plate Trace - License Plate Recognition!](https://github.com/fozail-ahmed1/Plate-Trace)
 
-- I’m currently learning **Data mining & Data warehousing!**
+-  I’m currently learning **Data mining & Data warehousing!**
 
 -  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1)
 
