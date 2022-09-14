@@ -5,7 +5,7 @@
 
 -  I’m currently learning **Data mining & Data warehousing!**
 
--  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1)
+<!-- -  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1) -->
 
 -  How to reach me **fozailahmed02@gmail.com**
 
