@@ -7,7 +7,7 @@
 
 <!-- -  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1) -->
 
--  Reach out to me at **fozailahmed02@gmail.com**
+-  Reach out to me via **fozailahmed02@gmail.com**
 
 ##
 <div align="center">
