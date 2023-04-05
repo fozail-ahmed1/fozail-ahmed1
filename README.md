@@ -1,4 +1,7 @@
-<h1 align="center">Fozail Ahmed</h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
+<h1 align="center">Fozail Ahmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 <h3 align="center">Fullstack Web Developer | Final Year Computer Science Student | Java | ReactJS</h3>
 
 -  I’m currently working on **"Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !**
@@ -73,19 +76,27 @@
 ## Github stats
 <p align="center">
   <a href="https://github.com/fozail-ahmed1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fozail-ahmed1&show_icons=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fozail-ahmed1&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/fozail-ahmed1">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fozail-ahmed1&theme=radical" />
   </a>
   <a href="https://github.com/fozail-ahmed1">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozail-ahmed1&hide_border=true&layout=compact" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fozail-ahmed1&hide_border=true&layout=compact&theme=radical" />
   </a>
 </p>  
 <br/>
+
+<p align="center">
+  <a href="https://github.com/fozail-ahmed1">
+    <img width="55%" src="https://github-profile-trophy.vercel.app/?username=fozail-ahmed1&theme=radical"/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=fozail-ahmed1&&style=flat-square" align="center" />
+
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=mrudula1808&icon=0&color=0" align="center" />
 </div>  
+
+
 <!--
 **fozail-ahmed1/fozail-ahmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
