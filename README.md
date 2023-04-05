@@ -1,15 +1,17 @@
 <h1 align="center">Fozail Ahmed</h1>
-<h3 align="center">Fullstack Web Developer | Frontend Developer | Data Science Enthusiast</h3>
+<h3 align="center">Fullstack Web Developer | Frontend Developer | Java | ReactJS</h3>
 
-<!-- -  I’m currently working on [Plate Trace - License Plate Recognition!](https://github.com/fozail-ahmed1/Plate-Trace)
- -->
--  I’m currently working as an Data Science & Business Analytics intern in The Sparks Foundation !
+-  I’m currently working on "Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !
+
+<!-- -  I’m currently working as an Data Science & Business Analytics intern in The Sparks Foundation ! -->
  
--  I’m currently learning **Full Stack Web Development using MERN**
+-  I’m currently learning **Full Stack Development using Java**
 
 <!-- -  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1) -->
 
 -  Reach out to me via **fozailahmed02@gmail.com**
+
+-  Looking for a SDE role where I can demonstrate and improve my skills whist being an invaluable member to my organisation !
 
 ##
 <div align="center">
