@@ -1,7 +1,7 @@
 <h1 align="center">Fozail Ahmed</h1>
 <h3 align="center">Fullstack Web Developer | Final Year Computer Science Student | Java | ReactJS</h3>
 
--  I’m currently working on "Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !
+-  I’m currently working on **"Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !**
 
 <!-- -  I’m currently working as an Data Science & Business Analytics intern in The Sparks Foundation ! -->
  
@@ -11,7 +11,7 @@
 
 -  Reach out to me via **fozailahmed02@gmail.com**
 
--  Looking for a SDE role where I can demonstrate and improve my skills whist being an invaluable member to my organisation !
+-  Looking for a **SDE role** where I can demonstrate and improve my skills whist being an invaluable member to my organisation !
 
 ##
 <div align="center">
