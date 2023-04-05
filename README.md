@@ -1,6 +1,9 @@
+<!-- Header-Image -->
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+<img width="100%" height = "50%" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
+
+<!-- Header -->
 <h1 align="center">Fozail Ahmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 <h3 align="center">Fullstack Web Developer | Final Year Computer Science Student | Java | ReactJS</h3>
 
@@ -16,6 +19,8 @@
 
 -  Looking for a **SDE role** where I can demonstrate and improve my skills whist being an invaluable member to my organisation ! 💯
 
+
+<!-- Socials -->
 ##
 <div align="center">
 <h3 align="center">Connect with me :</h3>
@@ -26,9 +31,9 @@
 </p>
 </div>
 
+<!-- Languages and Tools -->
 <h3 align="center">Languages and Tools : </h3>
 <table><tr><td valign="top" width="33%">
-
 
 
 <h3 align="center">Frontend</h3>
@@ -44,7 +49,7 @@
 </td><td valign="top" width="33%">
 
 
-<h3 align="center"> Backend</h3>
+<h3 align="center">Backend</h3>
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -74,6 +79,7 @@
 
 <br/>  
 
+<!--Stats-->
 
 ## Github stats
 <p align="center">
