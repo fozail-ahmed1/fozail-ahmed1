@@ -1,5 +1,5 @@
 <h1 align="center">Fozail Ahmed</h1>
-<h3 align="center">Fullstack Web Developer | Frontend Developer | Java | ReactJS</h3>
+<h3 align="center">Fullstack Web Developer | Final Year Computer Science Student | Java | ReactJS</h3>
 
 -  I’m currently working on "Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !
 
