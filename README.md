@@ -17,7 +17,7 @@
 
 -  Reach out to me via **fozailahmed02@gmail.com** 📧
 
--  Looking for a **SDE role** where I can demonstrate and improve my skills whist being an invaluable member to my organisation ! 💯
+- I am looking for an SDE position where I can demonstrate and enhance my talents while being an indispensable member of my organisation ! 💯
 
 
 <!-- Socials -->
