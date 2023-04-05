@@ -4,7 +4,7 @@
 <h1 align="center">Fozail Ahmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
 <h3 align="center">Fullstack Web Developer | Final Year Computer Science Student | Java | ReactJS</h3>
 
--  I’m currently working on **"Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy" !** 🚺
+-  I’m currently working on **"Wearable Device using AI and IoT for assessment of Fetal & Maternal well-being during Pregnancy"** 🚺
 
 <!-- -  I’m currently working as an Data Science & Business Analytics intern in The Sparks Foundation ! -->
  
