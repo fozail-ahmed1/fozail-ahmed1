@@ -17,7 +17,7 @@
 
 -  Reach out to me via **fozailahmed02@gmail.com** 📧
 
--  Vist my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**FozailAhmed.com** 📧</a>
+-  Visit my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**FozailAhmed.com** 📧</a>
 
 - I am looking for an SDE position where I can demonstrate and enhance my talents while being an indispensable member of my organisation ! 💯
 
