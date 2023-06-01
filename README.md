@@ -11,11 +11,13 @@
 
 <!-- -  I’m currently working as an Data Science & Business Analytics intern in The Sparks Foundation ! -->
  
--  I’m currently learning **Full Stack Development using Java** 🔥
+-  I’m currently learning **Full Stack Development using Java at Kodnest** 🔥
 
 <!-- -  All of my projects are available at [https://github.com/fozail-ahmed1](https://github.com/fozail-ahmed1) -->
 
 -  Reach out to me via **fozailahmed02@gmail.com** 📧
+
+-  Vist my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**FozailAhmed.com** 📧</a>
 
 - I am looking for an SDE position where I can demonstrate and enhance my talents while being an indispensable member of my organisation ! 💯
 
