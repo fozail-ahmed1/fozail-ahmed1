@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center">Fozail Ahmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
-<h3 align="center">Full Stack Developer | Final Year Computer Science Student | Java | ReactJS</h3>
+<h3 align="center">Seeking Exciting Software Developer Opportunities | Computer Science Graduate | Certified in Java and React</h3>
 
 -  I’m currently working on **"Wearable Device using AI and IoT for Assessment of Fetal & Maternal Well-being During Pregnancy"** 🚺
 
@@ -19,7 +19,7 @@
 
 -  Visit my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**FozailAhmed.com** 📧</a>
 
-- I am looking for an SDE position where I can demonstrate and enhance my talents while being an indispensable member of my organisation ! 💯
+-  Seeking SDE role to demonstrate and enhance technical expertise and leadership qualities, leveraging relevant skills, internships, projects, and fast learning capabilities to become an indispensable team member. 💯
 
 
 <!-- Socials -->
