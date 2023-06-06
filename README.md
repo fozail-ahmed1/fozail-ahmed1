@@ -17,7 +17,7 @@
 
 -  Reach out to me via **fozailahmed02@gmail.com** 📧
 
--  Visit my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**FozailAhmed.com** 📧</a>
+-  Visit my portfolio at <a href="https://fozail-ahmed1.github.io/Portfolio/" target="_blank">**https://fozail-ahmed1.github.io/Portfolio/** 🔎</a>
 
 -  Seeking SDE role to demonstrate and enhance technical expertise and leadership qualities, leveraging relevant skills, internships, projects, and fast learning capabilities to become an indispensable team member. 💯
 
