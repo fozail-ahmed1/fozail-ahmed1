@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center">Fozail Ahmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
-<h3 align="center">Seeking Exciting Software Developer Opportunities | Computer Science Graduate | Certified in Java and React</h3>
+<h3 align="center">Full Stack Developer | Computer Science Graduate | Java | React | MERN Stack | Seeking Software Engineering Opportunities</h3>
 
 -  I’m currently working on **"Wearable Device using AI and IoT for Assessment of Fetal & Maternal Well-being During Pregnancy"** 🚺
 
